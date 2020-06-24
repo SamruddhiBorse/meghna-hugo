@@ -50,8 +50,8 @@ URL = "pricing"
 name = "pricing"
 weight = 5
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Samruddhi Borse"
+description = ""
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
@@ -99,7 +99,7 @@ icon = "ti-youtube"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "#https://www.linkedin.com/in/samruddhi-borse-49282a193"
 [[params.social]]
 icon = "ti-dribbble"
 link = "#"
