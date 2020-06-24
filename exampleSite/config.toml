@@ -1,4 +1,4 @@
-baseURL = "https://samruddhiborse.com"
+baseURL = "https://samruddhiborse.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
