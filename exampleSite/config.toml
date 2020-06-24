@@ -3,7 +3,7 @@ disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
+theme = ""
 title = "Samruddhi Borse"
 [Languages.en]
 contentDir = "content/english"
@@ -88,9 +88,6 @@ link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
 preloader = "images/logo.png"
-[[params.social]]
-icon = "ti-gmail"
-link = "#samruddhiborse081098@gmail.com"
 [[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/samruddhi-borse-49282a193"
