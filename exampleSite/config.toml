@@ -93,7 +93,7 @@ icon = "ti-gmail"
 link = "#samruddhiborse081098@gmail.com"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#https://www.linkedin.com/in/samruddhi-borse-49282a193"
+link = "https://www.linkedin.com/in/samruddhi-borse-49282a193"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
