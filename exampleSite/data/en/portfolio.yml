@@ -3,10 +3,13 @@ portfolio:
   enable : true
   title : Our Works
   portfolio_item :
-
     # portfolio item loop
     - name : Download Portfolio
-      link : "images/cv.pdf"
+      image : images/cv.pdf
+      image_webp : 
+      categories : ["portfolio"]
+      content : My portfolio.
+      link : images/cv.pdf
       
     # portfolio item loop
     - name : Tag Design
@@ -82,6 +85,13 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: Download Portfolio
+    image: 
+    image_webp: 
+    categories:
+    - portfolio
+    content: hello.
+    link: images/cv.pdf
   - name: Tag Design
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
