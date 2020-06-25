@@ -5,8 +5,8 @@ portfolio:
   portfolio_item :
     # portfolio item loop
     - name : Download Portfolio
-      image : images/cv.pdf
-      image_webp : 
+      image : images/portfolio/portfolio-9.jpg
+      image_webp : images/portfolio/portfolio-9.webp
       categories : ["portfolio"]
       content : My portfolio.
       link : images/cv.pdf
@@ -17,7 +17,7 @@ portfolio:
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["design"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
+      link : ""
       
     # portfolio item loop
     - name : Sound system
@@ -86,11 +86,11 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: Download Portfolio
-    image: 
-    image_webp: 
+    image: images/portfolio/portfolio-9.jpg
+    image_webp: images/portfolio/portfolio-9.webp
     categories:
     - portfolio
-    content: hello.
+    content: hello this is demo.
     link: images/cv.pdf
   - name: Tag Design
     image: images/portfolio/portfolio-1.jpg
