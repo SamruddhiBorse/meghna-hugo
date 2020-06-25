@@ -3,8 +3,7 @@ contact:
   enable : true
   title : Let's Connect!
   subtitle : Contact Details
-  content : I'd love to connect with you...
-  Feel free to ping me if you wish to work with me, discuss your ideas or grabbing a cup of coffee.
+  content : I'd love to connect with you...Feel free to ping me if you wish to work with me, discuss your ideas or grabbing a cup of coffee.
 
   # Contact details
   contact_list:
