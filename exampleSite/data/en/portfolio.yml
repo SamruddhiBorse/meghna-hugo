@@ -82,12 +82,6 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
-  - name: Download CV
-    image: ''
-    image_webp: ''
-    categories: ''
-    content: ''
-    link: exampleSite\static\images
   - name: Tag Design
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
