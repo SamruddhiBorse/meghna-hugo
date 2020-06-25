@@ -1,15 +1,15 @@
 ---
-title: "John Doe"
+title: "Samruddhi Borse"
 image: ""
-email: "email2@example.org"
+email: "samruddhi@sam.org"
 social:
-  - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+
   - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://github.com/SamruddhiBorse08"
+  - icon : "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+    link : "https://www.linkedin.com/in/samruddhi-borse-49282a193"
+  - icon : "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+    link : "https://www.instagram.com/samruddhi_borse/"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Hello this is Samruddhi Borse...This is a demo.

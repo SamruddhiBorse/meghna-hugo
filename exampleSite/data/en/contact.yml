@@ -1,14 +1,15 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
+  title : Let's Connect!
   subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content : I'd love to connect with you...
+  Feel free to ping me if you wish to work with me, discuss your ideas or grabbing a cup of coffee.
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "Nashik, Maharashtra, India."
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: +880-31-000-000"
@@ -17,13 +18,14 @@ contact:
       info : "Fax: +880-31-000-000"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: samruddhiborse081098@gmail.com"
 
 
   # Contact form
   contact_form:
     enable : true
-    form_action : "#" #contact form works with https://formspree.io
+    form_action : "https://formspree.io/xknqvgkn" #contact form works with https://formspree.io
+    method: "POST"
     name : "Your Name"
     email : "Your Email"
     subject : "Subject"

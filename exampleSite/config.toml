@@ -12,17 +12,11 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = ""
-copyright = ""
-home = ""
-languageCode = ""
-languageName = ""
-weight = ""
+
 [[menu.main]]
 URL = "contact"
 name = "contact"
-weight = 5
+weight = 4
 [[menu.main]]
 URL = "blog"
 name = "blog"
@@ -42,7 +36,7 @@ weight = 2
 [[menu.main]]
 URL = "services"
 name = "services"
-weight = 4
+weight = 5
 [[menu.main]]
 URL = "about"
 name = "about"
@@ -53,12 +47,7 @@ description = ""
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
-[params.map]
-enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
+
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -82,22 +71,14 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 [[params.plugins.js]]
 link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
-link = "plugins/google-map/map.js"
-[params.preloader]
-enable = true
+
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/samruddhi-borse-49282a193"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
+icon = "ti-instagram"
+link = "https://www.instagram.com/samruddhi_borse/"
 [[params.social]]
 icon = "ti-pinterest"
-link = "#"
+link = "https://www.pinterest.com/samruddhiborse/"
