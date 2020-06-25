@@ -3,6 +3,8 @@ portfolio:
   enable : true
   title : Our Works
   portfolio_item :
+    - name : Download Portfolio
+      link : "images/cv.pdf"
     # portfolio item loop
     - name : Tag Design
       image : images/portfolio/portfolio-1.jpg
