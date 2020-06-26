@@ -1,26 +1,21 @@
-############################## Contact #############################
+---
 contact:
-  enable : true
-  title : Let's Connect!
-  subtitle : Contact Details
-  content : I'd love to connect with you...Feel free to ping me if you wish to work with me, discuss your ideas or grabbing a cup of coffee.
-
-  # Contact details
+  enable: true
+  title: Let's Connect!
+  subtitle: Contact Details
+  content: I'd love to connect with you...Feel free to ping me if you wish to work
+    with me, discuss your ideas or grabbing a cup of coffee.
   contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Nashik, Maharashtra, India."
-      
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: samruddhiborse081098@gmail.com"
-
-
-  # Contact form
+  - icon: ti-location-pin
+    info: Nashik, Maharashtra, India.
+  - icon: ti-email
+    info: 'Email: samruddhiborse081098@gmail.com'
   contact_form:
-    enable : true
-    form_action : "https://formspree.io/xknqvgkn" #contact form works with https://formspree.io
-    method: "POST"
-    Name : "Your Name"
-    Email : "Your Email"
-    Subject : "Subject"
-    Message : "Message"
-    Submit : "Submit"
+    enable: true
+    form_action: https://formspree.io/xknqvgkn
+    method: POST
+    Name: Your Full Name
+    Email: Your Email Id
+    Subject: Subject
+    Message: Message Here
+    Submit: Submit
