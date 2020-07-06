@@ -1,13 +1,13 @@
 ---
 portfolio:
   enable : true
-  title : Our Works
+  title : My Works
   portfolio_item :
     # portfolio item loop
     - name : Download Portfolio
       image : images/portfolio/portfolio-9.jpg
       image_webp : images/portfolio/portfolio-9.webp
-      categories : ["portfolio"]
+      categories : ["Portfolio"]
       content : My portfolio.
       link : images/cv.pdf
       
@@ -83,9 +83,9 @@ portfolio:
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
   enable: true
-  title: Our Works
+  title: My Work
   portfolio_item:
-  - name: Download Portfolio
+  - name: Click here to Download My Portfolio
     image: images/portfolio/portfolio-9.jpg
     image_webp: images/portfolio/portfolio-9.webp
     categories:
